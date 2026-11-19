@@ -144,6 +144,39 @@ This project demonstrates an end-to-end approach to retail business reporting us
 
 It showcases practical skills in data preparation, data validation, business analysis, KPI reporting, data modelling, DAX, and dashboard development.
 
+## Business Insights & Recommendations
+
+### Key Business Insights
+
+The Nexora Retail analysis focuses on identifying business performance trends across sales, profitability, regional performance, employee productivity, products, returns, and discounts.
+
+The dashboard enables management to:
+
+- Monitor overall revenue, profit, order volume, and profit margins.
+- Compare actual regional sales against monthly targets.
+- Identify employees with strong and weak target achievement.
+- Identify products and categories contributing to sales and profitability.
+- Monitor product returns and understand their impact on business performance.
+- Evaluate how discounting affects sales and profitability.
+- Track month-over-month revenue growth to understand changes in business performance.
+
+### Business Recommendations
+
+1. **Improve Regional Performance:** Review regions that consistently fall below their sales targets and develop focused improvement plans.
+
+2. **Strengthen Employee Productivity:** Identify employees with lower target achievement and provide appropriate support, training, and performance monitoring.
+
+3. **Review Product Profitability:** Investigate loss-making products and evaluate their pricing, costs, and discount strategies.
+
+4. **Monitor Discount Strategies:** Review high-discount transactions to ensure that discounts contribute positively to business performance.
+
+5. **Reduce Product Returns:** Analyse common return reasons and take corrective action to reduce avoidable returns.
+
+6. **Monitor Monthly Revenue Growth:** Review month-over-month revenue changes to identify positive trends and investigate periods of declining performance.
+
+### Management Reporting Value
+
+The reporting system provides management with a consolidated view of business performance through Excel analysis and interactive Power BI dashboards, supporting informed decisions and continuous performance monitoring.
 ---
 
 **Project Type:** Data Analytics Portfolio Project  
