@@ -1,0 +1,25 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Laptop,Electronics,629.0,384.74
+P002,Smartphone,Electronics,3539.0,2610.29
+P003,Headphones,Electronics,615.0,312.58
+P004,Monitor,Electronics,3213.0,2482.64
+P005,Keyboard,Electronics,3376.0,2416.61
+P006,Tablet,Electronics,3484.0,1806.22
+P007,Mixer,Home & Kitchen,3818.0,2257.35
+P008,Cookware Set,Home & Kitchen,2164.0,1640.38
+P009,Vacuum Cleaner,Home & Kitchen,3571.0,2595.5
+P010,Coffee Maker,Home & Kitchen,2986.0,1830.49
+P011,Bedsheet,Home & Kitchen,2164.0,1398.76
+P012,Storage Box,Home & Kitchen,1215.0,606.46
+P013,Notebook,Office Supplies,3897.0,2609.04
+P014,Office Chair,Office Supplies,3767.0,2664.87
+P015,Printer Paper,Office Supplies,3227.0,2488.69
+P016,Desk Organizer,Office Supplies,1756.0,1313.38
+P017,Pen Set,Office Supplies,3131.0,1685.7
+P018,Desk Lamp,Office Supplies,3558.0,2206.02
+P019,Backpack,Fashion,2365.0,1244.67
+P020,Running Shoes,Fashion,436.0,298.62
+P021,Jacket,Fashion,4170.0,3211.95
+P022,Watch,Fashion,3415.0,1973.01
+P023,Wallet,Fashion,4098.0,2544.31
+P024,T-Shirt,Fashion,1824.0,979.2
